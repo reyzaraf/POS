@@ -1,0 +1,9 @@
+-- sistem paket 
+	- penyusunan barang sesuai paket
+-- sistem pengiriman 
+	- manual dengan input harga pengiriman 
+-- sistem user 
+	- pembagian sistem 
+	  - Super admin
+     	  - Pegawai 
+
